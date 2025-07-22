@@ -1,0 +1,15 @@
+header {
+    display: none !important;
+}
+img {
+    width: 25% !important;
+}
+#toggleContrast {
+    display: none;
+}
+.embed {
+    display: none;
+}
+figure {
+    display: none;
+}

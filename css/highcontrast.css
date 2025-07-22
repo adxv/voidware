@@ -1,0 +1,42 @@
+* {
+	transition: font-size 0.1s ease-in-out;
+}
+h1 {
+    font-size: 1.7rem;
+    color: white !important;
+}
+h2 {
+    font-size: 1.3rem;
+    color: white !important;
+}
+.navbar {
+    background-color: rgba(20, 20, 20, 0.95);
+    font-size: 1.5rem;
+}
+.navlogo {
+    display: none;
+}
+.card {
+    background-color: rgba(20, 20, 20, 0.95);
+}
+.card-text:not(.link) {
+    font-size: 1.1rem;
+    color: white !important;
+}
+/* .card * {
+    color: white;
+} */
+summary {
+    font-size: 1.1rem;
+}
+.table:not(.link) {
+    font-size: 1.1rem;
+    color: white;
+}
+.trackinfo * {
+    font-size: 1.1rem;
+}
+.form * {
+    font-size: 1.1rem;
+    color: white !important;
+}
